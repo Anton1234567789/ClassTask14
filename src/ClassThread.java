@@ -9,6 +9,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class ClassThread{
+
     public static void main(String[] args) throws InterruptedException{
         List<MyThread> threads = new ArrayList<>();
 
